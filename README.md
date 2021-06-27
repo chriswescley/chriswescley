@@ -1,8 +1,17 @@
 <h1>!Minhas habilidades!</h1>
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  
-<div><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswescley&layout=compact&langs_count=16&theme=dracula"/>
+<div display-inline>
+<img src= "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<br>
+ <br>
+<div
+  ><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswescley&layout=compact&langs_count=16&theme=dracula"/>
 </div> <br>
 <h2>Oi! Pode me chamar de Chris! <br></h2>
 <a href="https://www.linkedin.com/in/christian-wescley/">
